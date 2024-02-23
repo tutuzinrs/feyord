@@ -39,7 +39,7 @@ links.forEach(function(link) {
 });
 
 document.getElementById("VerMaisBMW").addEventListener("click", function() {
-    window.location.href = "/html/vendaBMW.html";
+    window.location.href = "./html/vendaBMW.html";
 });
 
 document.getElementById("VerMaisMercedes").addEventListener("click", function() {
